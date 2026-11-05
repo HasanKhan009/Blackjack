@@ -1,0 +1,78 @@
+--- Welcome to Blackjack ---
+
+Current Bankroll: 100
+Enter bet (2 - 100): 10
+
+Dealer shows: 6 of Spades, [Hidden Card]
+Your hand: King of Hearts, Jack of Clubs (Total: 20)
+Choose action: hit, stand, or double (h/s/d): s
+
+Dealer's turn. Cards: 6 of Spades, 8 of Clubs (Total: 14)
+Dealer hits and gets: 4 of Hearts
+Dealer hand: 6 of Spades, 8 of Clubs, 4 of Hearts (Total: 18)
+You win! (20 vs 18). Won 10 chips.
+
+Play another round? (y/n): y
+
+Current Bankroll: 110
+Enter bet (2 - 110): -5
+Invalid bet amount. Out of range.
+Enter bet (2 - 110): ten
+Invalid input. Enter a whole number.
+Enter bet (2 - 110): 20
+
+Dealer shows: 5 of Hearts, [Hidden Card]
+Your hand: 5 of Diamonds, 6 of Hearts (Total: 11)
+Choose action: hit, stand, or double (h/s/d): d
+Doubled bet to: 40
+Your hand: 5 of Diamonds, 6 of Hearts, 9 of Hearts (Total: 20)
+
+Dealer's turn. Cards: 5 of Hearts, 10 of Diamonds (Total: 15)
+Dealer hits and gets: Queen of Clubs
+Dealer hand: 5 of Hearts, 10 of Diamonds, Queen of Clubs (Total: 25)
+Dealer busted! You win 40 chips.
+
+Play another round? (y/n): y
+
+Current Bankroll: 150
+Enter bet (2 - 150): 10
+
+Dealer shows: 5 of Clubs, [Hidden Card]
+Your hand: 9 of Diamonds, 10 of Spades (Total: 19)
+Choose action: hit, stand, or double (h/s/d): h
+Your hand: 9 of Diamonds, 10 of Spades, Queen of Diamonds (Total: 29)
+You busted! You lose 10 chips.
+
+Play another round? (y/n): y
+
+Current Bankroll: 140
+Enter bet (2 - 140): 30
+
+Dealer shows: 8 of Diamonds, [Hidden Card]
+Your hand: Queen of Spades, 7 of Clubs (Total: 17)
+Choose action: hit, stand, or double (h/s/d): d
+Doubled bet to: 60
+Your hand: Queen of Spades, 7 of Clubs, 2 of Hearts (Total: 19)
+
+Dealer's turn. Cards: 8 of Diamonds, King of Spades (Total: 18)
+You win! (19 vs 18). Won 60 chips.
+
+Play another round? (y/n): y
+
+Current Bankroll: 200
+Enter bet (2 - 200): 200
+
+Dealer shows: Ace of Diamonds, [Hidden Card]
+Your hand: 6 of Diamonds, 2 of Diamonds (Total: 8)
+Choose action: hit or stand (h/s): s
+
+Dealer's turn. Cards: Ace of Diamonds, 5 of Spades (Total: 16)
+Dealer hits and gets: 10 of Hearts
+Dealer hand: Ace of Diamonds, 5 of Spades, 10 of Hearts (Total: 16)
+Dealer hits and gets: 2 of Spades
+Dealer hand: Ace of Diamonds, 5 of Spades, 10 of Hearts, 2 of Spades (Total: 18)
+Dealer wins! (18 vs 8). Lost 200 chips.
+
+You cannot cover the minimum bet of 2. Game Over!
+
+Final Summary: Final Bankroll = 0 chips.
